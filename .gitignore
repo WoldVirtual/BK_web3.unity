@@ -397,6 +397,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # VS Code files
-.vscode/
 
 !/src/ChainSafe.Gaming/Web3/Core/Debug/
+config.bat
